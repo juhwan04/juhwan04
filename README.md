@@ -1,5 +1,12 @@
 <h1>Hi there 👋</h1>
 <a href="https://juhwan.pythonanywhere.com/acc/index/"><h2>Take a look at Joohwani's portfolio<h2></a>
+
+<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=juhwan04&show_icons=true&theme=radical) -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juhwan04&layout=compact)](https://github.com/juhwan04/github-readme-stats)
+
+
+
+
 <!--
 **juhwan04/juhwan04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
