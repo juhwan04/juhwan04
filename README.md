@@ -4,6 +4,13 @@
 <a href="https://juhwan.pythonanywhere.com/acc/index/" target=”_blank”>✨Take a look at Joohwani's Django project✨</a>
 
 ### 2. museum <br>
+<a href="https://github.com/juhwan04/museum" target=”_blank”>✨Explore the many museum-themed features✨</a>
+
+### 3. business programming problem <br>
+<a href="https://capable-teal-7bf.notion.site/04cae89942e04f6e873e9c6a64c83747" target=”_blank”>✨Go to juhwan's code✨</a>
+
+### 4. 2019 Coding Competition <br>
+<a href="https://capable-teal-7bf.notion.site/04cae89942e04f6e873e9c6a64c83747" target=”_blank”>✨Go to juhwan's code✨</a>
 
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=juhwan04&show_icons=true&theme=radical) -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juhwan04&layout=compact)](https://github.com/juhwan04/github-readme-stats)
