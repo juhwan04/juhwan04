@@ -10,7 +10,7 @@
 <a href="https://capable-teal-7bf.notion.site/04cae89942e04f6e873e9c6a64c83747" target=”_blank”>✨Go to juhwan's code✨</a>
 
 ### 4. CodeUp programming problem <br>
-<a href="https://capable-teal-7bf.notion.site/04cae89942e04f6e873e9c6a64c83747" target=”_blank”>✨Go to juhwan's code✨</a>
+<a href="[https://capable-teal-7bf.notion.site/04cae89942e04f6e873e9c6a64c83747](https://capable-teal-7bf.notion.site/Python-f5d245b6b7664664a949b9c34748365c)" target=”_blank”>✨Go to juhwan's code✨</a>
 
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=juhwan04&show_icons=true&theme=radical) -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juhwan04&layout=compact)](https://github.com/juhwan04/github-readme-stats)
