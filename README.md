@@ -9,7 +9,7 @@
 ### 3. business programming problem <br>
 <a href="https://capable-teal-7bf.notion.site/04cae89942e04f6e873e9c6a64c83747" target=”_blank”>✨Go to juhwan's code✨</a>
 
-### 4. 2019 Coding Competition <br>
+### 4. CodeUp programming problem <br>
 <a href="https://capable-teal-7bf.notion.site/04cae89942e04f6e873e9c6a64c83747" target=”_blank”>✨Go to juhwan's code✨</a>
 
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=juhwan04&show_icons=true&theme=radical) -->
