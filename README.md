@@ -1,5 +1,9 @@
-<h1>Hi there 👋</h1>
-<a href="https://juhwan.pythonanywhere.com/acc/index/" target=”_blank”>✨Take a look at Joohwani's portfolio✨</a>
+<h1>JuHwan Portfolio</h1>
+
+### 1. Django <br>
+<a href="https://juhwan.pythonanywhere.com/acc/index/" target=”_blank”>✨Take a look at Joohwani's Django project✨</a>
+
+### 2. museum <br>
 
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=juhwan04&show_icons=true&theme=radical) -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juhwan04&layout=compact)](https://github.com/juhwan04/github-readme-stats)
