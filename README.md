@@ -18,6 +18,9 @@
 ### 4. museum <br>
 <a href="https://github.com/juhwan04/museum" target=”_blank”>✨Explore the many museum-themed features✨</a>
 
+### 5. Pogramming Lnguage
+<a href="https://capable-teal-7bf.notion.site/C-803f9522c4ff4fc0a9d13f3a005780c7" target=”_blank”>✨study C✨</a> <br>
+<a href="https://capable-teal-7bf.notion.site/python-91f583e35c3a4bfab437e101a4f96cf8" target=”_blank”>✨study python✨</a>
 
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=juhwan04&show_icons=true&theme=radical) -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juhwan04&layout=compact)](https://github.com/juhwan04/github-readme-stats)
